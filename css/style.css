@@ -1,0 +1,67 @@
+form{
+    opacity: 0;
+    visibility: hidden;
+    display: none;
+}
+
+.show{
+    opacity: 1;
+    visibility: visible;
+    display: block;
+}
+.date p{
+background-color:  #F7DC6F ;
+display: inline;
+padding: 7px;
+border-radius: 20px;
+color: black;
+cursor: pointer;
+}
+.date input{
+padding: 10px;
+width: 450px;
+}
+.pi p{
+    background-color:  #DC7633 ;
+    display: inline;
+    padding: 7px;
+    border-radius: 20px;
+    color: black;
+    cursor: pointer; 
+    margin-top: 10px;  
+}
+.pi input{
+    padding: 10px;
+width: 200px;
+margin-top: 10px; 
+}
+
+.id p{
+    background-color: #E74C3C;
+    display: inline;
+    padding: 7px;
+    border-radius: 20px;
+    color: black;
+    cursor: pointer; 
+    margin-top: 10px;  
+}
+
+.id input{
+    padding: 10px;
+    width: 200px;
+    margin-top: 10px; 
+}
+.num p{
+    background-color:#34495E;
+    display: inline;
+    padding: 7px;
+    border-radius: 20px;
+    color: white;
+    cursor: pointer; 
+    margin-top: 10px;   
+}
+.num input{
+    padding: 10px;
+    width: 200px;
+    margin-top: 10px; 
+}
